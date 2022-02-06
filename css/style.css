@@ -54,4 +54,21 @@ body{
 footer{
     background-color: #033B4A;
 }
+
+.playstore{
+    text-align: right;
+    }
 /* FOOTER END */
+
+/* MEDIA QUERIES */
+
+@media (max-width: 576px) { 
+    .appstore{
+        text-align: center;
+        margin-top:5px;
+    }
+    .playstore{
+    text-align: center;
+    }
+    
+}
