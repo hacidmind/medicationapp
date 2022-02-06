@@ -1,0 +1,57 @@
+body{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+.medapp{
+    font-family: 'Supermercado One', cursive;
+}
+
+.btn-green{
+    background-color: #00D6A3;
+}
+
+.text-green{
+    color: #00D6A3;
+}
+
+/* landing page */
+.landing-page{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/Rectangle\ 3.png);
+}
+
+
+.track{
+    padding-top: 132px;
+    font-size:64px;
+}
+
+.b-width{
+    width: 224px !important;
+    height: 64px !important;
+}
+
+.icon{
+    padding-bottom:236px;
+}
+
+/* landing page End */
+
+/* Features */
+.features{
+    background-color: #033B4A;
+}
+
+/* Features END */
+
+/* review */
+.review{
+    background-image: url(../images/bg-map.png);
+}
+/* review END */
+
+/* FOOTER */
+footer{
+    background-color: #033B4A;
+}
+/* FOOTER END */
